@@ -5,7 +5,7 @@
 # HeadRosettes
 
 ## Project Documentation
-[View the full project portfolio](docs/HeadRosettes Project Portfolio_SYH.pdf)
+[View the full project portfolio](docs/HeadRosettes_Project_Portfolio_SYH.pdf)
 
 HeadRosettes is a database-driven e-commerce web application for browsing, comparing, purchasing, and reviewing headphones. The project was developed by a three-member team to apply core web development, database, security, API integration, and data-visualization concepts in a complete service workflow.
 
